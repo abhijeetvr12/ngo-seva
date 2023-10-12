@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ngo-seva/static/css/main.3ee426fa.css",
+    "main.js": "/ngo-seva/static/js/main.58b3cddf.js",
+    "static/media/prs2.jpg": "/ngo-seva/static/media/prs2.6b73fd246a999fb8e32e.jpg",
+    "static/media/prs3.jpg": "/ngo-seva/static/media/prs3.5ecb1fe7a6e6dd947e13.jpg",
+    "static/media/prs1.jpg": "/ngo-seva/static/media/prs1.ec9671444feba8053236.jpg",
+    "static/media/blog4.jpg": "/ngo-seva/static/media/blog4.4ff7f914a5eaccc83253.jpg",
+    "static/media/blog1.jpg": "/ngo-seva/static/media/blog1.fe395e9d055503ec5c26.jpg",
+    "static/media/blog3.jpg": "/ngo-seva/static/media/blog3.e7d59c531a7678dfd93e.jpg",
+    "static/media/events7.jpg": "/ngo-seva/static/media/events7.4dcc6211f3b616a57baf.jpg",
+    "static/media/crs-img3.jpg": "/ngo-seva/static/media/crs-img3.f702a863d3dc0ee329d2.jpg",
+    "static/media/blog2.jpg": "/ngo-seva/static/media/blog2.077b3fc649b0dc9f5a87.jpg",
+    "static/media/events2.jpg": "/ngo-seva/static/media/events2.2337f1158baf9ca2dba9.jpg",
+    "static/media/crs-img2.jpg": "/ngo-seva/static/media/crs-img2.ab27e9f7bbd5bf6f1a7b.jpg",
+    "static/media/getInvolved.jpg": "/ngo-seva/static/media/getInvolved.485704bf1cfd5d6f9947.jpg",
+    "static/media/events1.jpg": "/ngo-seva/static/media/events1.85c69c73f1aca9b48d17.jpg",
+    "static/media/events4.jpg": "/ngo-seva/static/media/events4.9f697c9fd53625a91d9b.jpg",
+    "static/media/events8.png": "/ngo-seva/static/media/events8.232b863b8f8aecbe953a.png",
+    "static/media/events3.jpg": "/ngo-seva/static/media/events3.5c339a3655fe85f0ad5f.jpg",
+    "static/media/events6.jpg": "/ngo-seva/static/media/events6.cfb1896ee6bab1ca1c85.jpg",
+    "static/media/crs-img1.jpg": "/ngo-seva/static/media/crs-img1.7c425cb5d053cced6160.jpg",
+    "static/media/events9.jpg": "/ngo-seva/static/media/events9.65d93fd9ca18d643efc3.jpg",
+    "index.html": "/ngo-seva/index.html",
+    "main.3ee426fa.css.map": "/ngo-seva/static/css/main.3ee426fa.css.map",
+    "main.58b3cddf.js.map": "/ngo-seva/static/js/main.58b3cddf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ee426fa.css",
+    "static/js/main.58b3cddf.js"
+  ]
+}
